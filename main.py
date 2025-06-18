@@ -16,7 +16,7 @@ default_bot_properties = DefaultBotProperties(parse_mode="HTML")
 
 
 # ==== 🔐 Конфигурация ====
-BOT_TOKEN = "7802810585:AAHCuTyF2RXgl5qbUaLPK74dhwxvb8dSekA"
+BOT_TOKEN = "8159844260:AAHOqePOs3MESOJbpgOu_HeX0RzQI3axNzo"
 
 ADMIN_ID = 1033785549  # Admin IDs
 DATABASE_URL = "sqlite+aiosqlite:///./taxi_bot.db"
